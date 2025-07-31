@@ -1,0 +1,12 @@
+streamlit
+langchain>=0.1.0
+faiss-cpu
+sentence-transformers
+openai
+tqdm
+python-docx
+PyPDF2
+python-dotenv
+pandas 
+google-generativeai
+langchain-google-genai 
